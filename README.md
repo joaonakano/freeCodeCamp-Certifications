@@ -1,2 +1,6 @@
-# freeCodeCamp-Certifications
-Certifications and all the projects made when I was studying in freeCodeCamp.
+# freeCodeCamp Certifications
+## Projects and Certifications
+
+- [Build a CatPhotosApp](lorem ipsum)
+- 
+---
