@@ -1,6 +1,6 @@
 # freeCodeCamp Certifications
 ## Projects and Certifications
 
-- [Build a CatPhotosApp](lorem ipsum)
+- 🐈 [Learn HTML by Building a Cat Photo APP](https://github.com/joaonakano/FreeCodeCamp/tree/main/CatPhotoAPP) ✅
 - 
 ---
